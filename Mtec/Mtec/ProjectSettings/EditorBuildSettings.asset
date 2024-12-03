@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Menu.unity
+    guid: b3b69362298f3484a8013a447c98df31
+  - enabled: 1
+    path: Assets/Cenas/Instrucao.unity
+    guid: 488caeca5f5608441b41b40097f93dc5
+  - enabled: 1
+    path: Assets/Cenas/Jogoativo.unity
+    guid: 9483107aca560a940b7f6cbf6143873c
+  - enabled: 1
+    path: Assets/Cenas/Morreu.unity
+    guid: cfb022878a35c1c4ca130e72bed319e6
